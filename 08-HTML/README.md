@@ -183,7 +183,7 @@ Es importante notar que distintos atributos pueden recibir distintos valores, ge
 
 ## Formas de dar estilo
 
-Antes de empezar a dar estilos, necesitamos una forma de decirle al browser qué vamos a darles reglas de estilo.
+Antes de empezar a dar estilos, necesitamos una forma de decirle al browser que vamos a darles reglas de estilo.
 Hay varias formas de lograr esto (más adelante veremos en detalle como funcionan cada una):
   * usando el atributo style: esta es la forma primitiva más simple, básicamente le damos reglas a cada tag html.
   * usando el tag `<style/>`: Se utiliza este tag en el `<head>` del documento HTML, con esto logramos agrupar todas las reglas que luego queremos que se apliquen a los elementos HTML.
